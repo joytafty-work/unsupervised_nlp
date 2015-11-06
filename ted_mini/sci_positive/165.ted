@@ -1,0 +1,49 @@
+so_en ,_en where_en are_en the_en robots_en ?_en
+we_en 've_en been_en told_en for_en 40_en years_en already_en that_en they_en 're_en coming_en soon_en ._en
+very_en soon_en they_en 'll_en be_en doing_en everything_en for_en us_en ._en
+they_en 'll_en be_en cooking_en ,_en cleaning_en ,_en buying_en things_en ,_en shopping_en ,_en building_en ._en but_en they_en are_en n't_en here_en ._en
+meanwhile_en ,_en we_en have_en illegal_en immigrants_en doing_en all_en the_en work_en ,_en but_en we_en do_en n't_en have_en any_en robots_en ._en
+so_en what_en can_en we_en do_en about_en that_en ?_en what_en can_en we_en say_en ?_en
+so_en i_en want_en to_en give_en a_en little_en bit_en of_en a_en different_en perspective_en of_en how_en we_en can_en perhaps_en look_en at_en these_en things_en in_en a_en little_en bit_en of_en a_en different_en way_en ._en
+and_en this_en is_en an_en x_en -_en ray_en picture_en of_en a_en real_en beetle_en ,_en and_en a_en swiss_en watch_en ,_en back_en from_en '88_en ._en you_en look_en at_en that_en --_en what_en was_en true_en then_en is_en certainly_en true_en today_en ._en
+we_en can_en still_en make_en the_en pieces_en ._en we_en can_en make_en the_en right_en pieces_en ._en
+we_en can_en make_en the_en circuitry_en of_en the_en right_en computational_en power_en ,_en but_en we_en ca_en n't_en actually_en put_en them_en together_en to_en make_en something_en that_en will_en actually_en work_en and_en be_en as_en adaptive_en as_en these_en systems_en ._en
+so_en let_en 's_en try_en to_en look_en at_en it_en from_en a_en different_en perspective_en ._en
+let_en 's_en summon_en the_en best_en designer_en ,_en the_en mother_en of_en all_en designers_en ._en
+let_en 's_en see_en what_en evolution_en can_en do_en for_en us_en ._en
+so_en we_en threw_en in_en --_en we_en created_en a_en primordial_en soup_en with_en lots_en of_en pieces_en of_en robots_en --_en with_en bars_en ,_en with_en motors_en ,_en with_en neurons_en ._en
+put_en them_en all_en together_en ,_en and_en put_en all_en this_en under_en kind_en of_en natural_en selection_en ,_en under_en mutation_en ,_en and_en rewarded_en things_en for_en how_en well_en they_en can_en move_en forward_en ._en
+a_en very_en simple_en task_en ,_en and_en it_en 's_en interesting_en to_en see_en what_en kind_en of_en things_en came_en out_en of_en that_en ._en
+so_en if_en you_en look_en ,_en you_en can_en see_en a_en lot_en of_en different_en machines_en come_en out_en of_en this_en ._en they_en all_en move_en around_en ._en
+they_en all_en crawl_en in_en different_en ways_en ,_en and_en you_en can_en see_en on_en the_en right_en ,_en that_en we_en actually_en made_en a_en couple_en of_en these_en things_en ,_en and_en they_en work_en in_en reality_en ._en these_en are_en not_en very_en fantastic_en robots_en ,_en but_en they_en evolved_en to_en do_en exactly_en what_en we_en reward_en them_en for_en :_en for_en moving_en forward_en ._en so_en that_en was_en all_en done_en in_en simulation_en ,_en but_en we_en can_en also_en do_en that_en on_en a_en real_en machine_en ._en
+here_en 's_en a_en physical_en robot_en that_en we_en actually_en have_en a_en population_en of_en brains_en ,_en competing_en ,_en or_en evolving_en on_en the_en machine_en ._en
+it_en 's_en like_en a_en rodeo_en show_en ._en they_en all_en get_en a_en ride_en on_en the_en machine_en ,_en and_en they_en get_en rewarded_en for_en how_en fast_en or_en how_en far_en they_en can_en make_en the_en machine_en move_en forward_en ._en
+and_en you_en can_en see_en these_en robots_en are_en not_en ready_en to_en take_en over_en the_en world_en yet_en ,_en but_en they_en gradually_en learn_en how_en to_en move_en forward_en ,_en and_en they_en do_en this_en autonomously_en ._en
+so_en in_en these_en two_en examples_en ,_en we_en had_en basically_en machines_en that_en learned_en how_en to_en walk_en in_en simulation_en ,_en and_en also_en machines_en that_en learned_en how_en to_en walk_en in_en reality_en ._en
+but_en i_en want_en to_en show_en you_en a_en different_en approach_en ,_en and_en this_en is_en this_en robot_en over_en here_en ,_en which_en has_en four_en legs_en ._en
+it_en has_en eight_en motors_en ,_en four_en on_en the_en knees_en and_en four_en on_en the_en hip_en ._en
+it_en has_en also_en two_en tilt_en sensors_en that_en tell_en the_en machine_en which_en way_en it_en 's_en tilting_en ._en
+but_en this_en machine_en does_en n't_en know_en what_en it_en looks_en like_en ._en
+you_en look_en at_en it_en and_en you_en see_en it_en has_en four_en legs_en ,_en the_en machine_en does_en n't_en know_en if_en it_en 's_en a_en snake_en ,_en if_en it_en 's_en a_en tree_en ,_en it_en does_en n't_en have_en any_en idea_en what_en it_en looks_en like_en ,_en but_en it_en 's_en going_en to_en try_en to_en find_en that_en out_en ._en
+initially_en ,_en it_en does_en some_en random_en motion_en ,_en and_en then_en it_en tries_en to_en figure_en out_en what_en it_en might_en look_en like_en ._en
+and_en you_en 're_en seeing_en a_en lot_en of_en things_en passing_en through_en its_en minds_en ,_en a_en lot_en of_en self_en -_en models_en that_en try_en to_en explain_en the_en relationship_en between_en actuation_en and_en sensing_en ._en it_en then_en tries_en to_en do_en a_en second_en action_en that_en creates_en the_en most_en disagreement_en among_en predictions_en of_en these_en alternative_en models_en ,_en like_en a_en scientist_en in_en a_en lab._en then_en it_en does_en that_en and_en tries_en to_en explain_en that_en ,_en and_en prune_en out_en its_en self_en -_en models_en ._en
+this_en is_en the_en last_en cycle_en ,_en and_en you_en can_en see_en it_en 's_en pretty_en much_en figured_en out_en what_en its_en self_en looks_en like_en ._en and_en once_en it_en has_en a_en self_en -_en model_en ,_en it_en can_en use_en that_en to_en derive_en a_en pattern_en of_en locomotion_en ._en
+so_en what_en you_en 're_en seeing_en here_en are_en a_en couple_en of_en machines_en --_en a_en pattern_en of_en locomotion_en ._en
+we_en were_en hoping_en that_en it_en wass_en going_en to_en have_en a_en kind_en of_en evil_en ,_en spidery_en walk_en ,_en but_en instead_en it_en created_en this_en pretty_en lame_en way_en of_en moving_en forward_en ._en
+but_en when_en you_en look_en at_en that_en ,_en you_en have_en to_en remember_en that_en this_en machine_en did_en not_en do_en any_en physical_en trials_en on_en how_en to_en move_en forward_en ,_en nor_en did_en it_en have_en a_en model_en of_en itself_en ._en
+it_en kind_en of_en figured_en out_en what_en it_en looks_en like_en ,_en and_en how_en to_en move_en forward_en ,_en and_en then_en actually_en tried_en that_en out_en ._en
+so_en ,_en we_en 'll_en move_en forward_en to_en a_en different_en idea_en ._en
+so_en that_en was_en what_en happened_en when_en we_en had_en a_en couple_en of_en --_en that_en 's_en what_en happened_en when_en you_en had_en a_en couple_en of_en --_en ok_en ,_en ok_en ,_en ok_en --_en --_en they_en do_en n't_en like_en each_en other_en ._en so_en there_en 's_en a_en different_en robot_en ._en
+that_en 's_en what_en happened_en when_en the_en robots_en actually_en are_en rewarded_en for_en doing_en something_en ._en
+what_en happens_en if_en you_en do_en n't_en reward_en them_en for_en anything_en ,_en you_en just_en throw_en them_en in_en ?_en
+so_en we_en have_en these_en cubes_en ,_en like_en the_en diagram_en showed_en here_en ._en
+the_en cube_en can_en swivel_en ,_en or_en flip_en on_en its_en side_en ,_en and_en we_en just_en throw_en 1,000_en of_en these_en cubes_en into_en a_en soup_en --_en this_en is_en in_en simulation_en --_en and_en do_en n't_en reward_en them_en for_en anything_en ,_en we_en just_en let_en them_en flip_en ._en we_en pump_en energy_en into_en this_en and_en see_en what_en happens_en in_en a_en couple_en of_en mutations_en ._en
+so_en ,_en initially_en nothing_en happens_en ,_en they_en 're_en just_en flipping_en around_en there_en ._en
+but_en after_en a_en very_en short_en while_en ,_en you_en can_en see_en these_en blue_en things_en on_en the_en right_en there_en begin_en to_en take_en over_en ._en
+they_en begin_en to_en self_en -_en replicate_en ._en so_en in_en absence_en of_en any_en reward_en ,_en the_en intrinsic_en reward_en is_en self_en -_en replication_en ._en
+and_en we_en 've_en actually_en built_en a_en couple_en of_en these_en ,_en and_en this_en is_en part_en of_en a_en larger_en robot_en made_en out_en of_en these_en cubes_en ._en
+it_en 's_en an_en accelerated_en view_en ,_en where_en you_en can_en see_en the_en robot_en actually_en carrying_en out_en some_en of_en its_en replication_en process_en ._en
+so_en you_en 're_en feeding_en it_en with_en more_en material_en --_en cubes_en in_en this_en case_en --_en and_en more_en energy_en ,_en and_en it_en can_en make_en another_en robot_en ._en
+so_en of_en course_en ,_en this_en is_en a_en very_en crude_en machine_en ,_en but_en we_en 're_en working_en on_en a_en micro_en -_en scale_en version_en of_en these_en ,_en and_en hopefully_en the_en cubes_en will_en be_en like_en a_en powder_en that_en you_en pour_en in_en ._en
+ok_en ,_en so_en what_en can_en we_en learn_en ?_en these_en robots_en are_en of_en course_en not_en very_en useful_en in_en themselves_en ,_en but_en they_en might_en teach_en us_en something_en about_en how_en we_en can_en build_en better_en robots_en ,_en and_en perhaps_en how_en humans_en ,_en animals_en ,_en create_en self_en -_en models_en and_en learn_en ._en
+and_en one_en of_en the_en things_en that_en i_en think_en is_en important_en is_en that_en we_en have_en to_en get_en away_en from_en this_en idea_en of_en designing_en the_en machines_en manually_en ,_en but_en actually_en let_en them_en evolve_en and_en learn_en ,_en like_en children_en ,_en and_en perhaps_en that_en 's_en the_en way_en we_en 'll_en get_en there_en ._en thank_en you_en ._en
